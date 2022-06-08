@@ -1,0 +1,85 @@
+.maxi{
+
+    margin-left: 35%;
+}
+.photo3{
+    float: left;
+    /* background-color: aqua; */
+    margin-left: 30%;
+    margin-top: 10%;
+    
+}
+.max3{
+    /* background-color: yellow; */
+    padding-left: 5%;
+}
+.max3 p{
+    color: rgb(167, 165, 165);
+}
+.box11{
+    height: 100px;
+    width: 120px;
+    float: left;
+    /* background-color: blueviolet; */
+}
+.box21{
+    float: left;
+    height: 90px;
+    width: 100px;
+    text-align: center;
+}
+.box21 h1{
+    text-align: center;
+  }
+.box31{
+    float: left;
+    height: 90px;
+      width: 100px;
+      text-align: left;
+}
+.follow2{
+    /* background-color: yellowgreen; */
+    text-align: left;
+    color: rgb(167, 165, 165);
+    margin-left: 5%;
+}
+/* .profile2{
+    text-align: left;
+} */
+.hire2{
+    height: 40px;
+    width: 80px;
+    background-color: rgb(89, 203, 125);
+    color: aliceblue;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 20px;
+    border-radius: 7px;
+    border-color: aliceblue;
+}
+.profile2{
+    float: left;
+    text-align: left;
+    padding-left: 0%;
+    /* margin-left: 5px; */
+ 
+}
+.percentage2{
+    text-align: left;
+    color: black;
+    height: 50px;
+    text-align: center;
+    padding-top: 3px;
+    
+}
+.imageperc2{
+    height: 5px;
+    width: 150px;
+    background-color: #35b2e8;
+    margin-left: 0%;
+    border-radius: 5px;
+}
+span{
+    color: black;
+    
+}

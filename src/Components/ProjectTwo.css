@@ -1,0 +1,28 @@
+.myproject2{
+    margin-left: 13%;
+    font-size: 16px;
+    margin-top: 50px;
+    text-align: left;
+    height: 50px;
+    color: black;
+  }
+  .active{
+      text-align: left;
+      margin-top: 20px;
+      height: 80px;
+      margin-left: 10%;
+      color: rgb(167, 165, 165);
+      /* background-color: aqua; */
+  }
+  .newprojectbutton{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(89, 203, 125);
+    color: aliceblue;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 60px;
+    margin-top: 20px;
+    border-radius: 7px;
+    border-color: aliceblue;
+  }

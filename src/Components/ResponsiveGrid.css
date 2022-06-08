@@ -1,0 +1,46 @@
+.pgrid{
+    height: 30px;
+    width: 30px;
+    margin-right: 80%;
+    float: left;
+}
+.process{
+    margin-left: 50%;
+    font-size: 13px;
+    font-weight: bold;
+}
+.h1{
+    color: rgb(37, 35, 35);
+    text-align: left;
+}
+.p{
+    color: rgb(167, 165, 165);
+    text-align: left;
+}
+.h2{
+    color: rgb(37, 35, 35);
+    text-align: left;
+}
+.h3{
+    margin-top: 0px;
+    text-align: left;
+}
+.datedoler{
+    margin-top: 50px;
+}
+ .date{
+    float: left;   
+    width: 50%;
+    height: 80px;
+}
+.doler{
+   padding-top: 2px;  
+} 
+spam{
+    color: rgb(167, 165, 165);
+}
+.percline{
+    height: 5px;
+    width: 150px;
+    background-color: #35b2e8;
+}
