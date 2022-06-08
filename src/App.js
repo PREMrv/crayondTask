@@ -132,7 +132,7 @@ function App() {
         <li><a href='#'>Resource<br/><span>Docs & Layout Builder</span></a></li>
         
         
-        <li><a href='#'>Mega Menu<br/><span>Extended Navigation</span></a></li>
+        <li><a href='#'>Mega menu<br/><span>Extended Navigation</span></a></li>
         
       </ul>
     </div>
